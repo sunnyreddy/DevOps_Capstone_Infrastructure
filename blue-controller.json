@@ -2,7 +2,7 @@
    "kind":"ReplicationController",
    "apiVersion":"v1",
    "metadata":{
-      "name":"blue container",
+      "name":"blue",
       "labels":{
          "app":"blue"
       }
@@ -21,7 +21,7 @@
          "spec":{
             "containers":[
                {
-                  "name":"blue container",
+                  "name":"blue",
                   "image":"saikanth30/capstone",
                   "ports":[
                      {

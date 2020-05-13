@@ -15,7 +15,7 @@
          }
       ],
       "selector":{
-         "app":"blue container"
+         "app":"blue"
       },
       "type": "LoadBalancer"
    }
